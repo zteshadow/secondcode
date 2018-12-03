@@ -1,0 +1,7 @@
+//
+//  Facebook-Debug.xcconfig
+//  Facebook
+//
+
+#include "Facebook.xcconfig"
+#include "Facebook-Generated.xcconfig"

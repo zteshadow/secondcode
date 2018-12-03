@@ -1,0 +1,546 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 50E3-1ADA
+F:.
+│  1.txt
+│  
+├─algorithm
+│  ├─include
+│  │      cm_algorithm_misc.h
+│  │      cm_list.h
+│  │      cm_poly.h
+│  │      cm_queue.h
+│  │      cm_sort.h
+│  │      cm_stack.h
+│  │      cm_sum.h
+│  │      cm_utility.h
+│  │      
+│  ├─project
+│  │  └─vs2003
+│  │      │  algorithm.ncb
+│  │      │  algorithm.sln
+│  │      │  algorithm.vcproj
+│  │      │  main.cpp
+│  │      │  
+│  │      └─Debug
+│  │              algorithm.exe
+│  │              algorithm.ilk
+│  │              algorithm.pdb
+│  │              BuildLog.htm
+│  │              cm_algorithm_misc.obj
+│  │              cm_array_queue.obj
+│  │              cm_array_stack.obj
+│  │              cm_list.obj
+│  │              cm_list_stack.obj
+│  │              cm_poly.obj
+│  │              cm_sort.obj
+│  │              cm_sum.obj
+│  │              cm_test.obj
+│  │              cm_utility.obj
+│  │              main.obj
+│  │              vc70.idb
+│  │              vc70.pdb
+│  │              
+│  └─source
+│          cm_algorithm_misc.c
+│          cm_array_queue.c
+│          cm_array_stack.cpp
+│          cm_list.cpp
+│          cm_list_stack.cpp
+│          cm_poly.cpp
+│          cm_sort.cpp
+│          cm_sum.cpp
+│          cm_test.cpp
+│          cm_utility.cpp
+│          
+├─browser
+│  ├─nbk
+│  │      bd_list.c
+│  │      bd_list.h
+│  │      nbk_connection.c
+│  │      nbk_connection.h
+│  │      nbk_cookie_manager.c
+│  │      nbk_cookie_manager.h
+│  │      nbk_core.h
+│  │      nbk_ffpkg_parser.c
+│  │      nbk_ffpkg_parser.h
+│  │      nbk_file_connection.c
+│  │      nbk_file_connection.h
+│  │      nbk_fscache.c
+│  │      nbk_fscache.h
+│  │      nbk_gdi.c
+│  │      nbk_http_connection.c
+│  │      nbk_http_connection.h
+│  │      nbk_image_manager.c
+│  │      nbk_image_manager.h
+│  │      nbk_interface.c
+│  │      nbk_io_stream.c
+│  │      nbk_io_stream.h
+│  │      nbk_kernel.c
+│  │      nbk_kernel.h
+│  │      nbk_sim_connection.c
+│  │      nbk_sim_connection.h
+│  │      nbk_stdc.c
+│  │      nbk_timer.c
+│  │      nbk_web_view.c
+│  │      nbk_web_view.h
+│  │      
+│  ├─project
+│  │  ├─iPhone
+│  │  │  ├─Bible
+│  │  │  │  │  Bible-Info.plist
+│  │  │  │  │  BibleViewController.xib
+│  │  │  │  │  Bible_Prefix.pch
+│  │  │  │  │  main.m
+│  │  │  │  │  MainWindow.xib
+│  │  │  │  │  
+│  │  │  │  ├─Bible.xcodeproj
+│  │  │  │  │      project.pbxproj
+│  │  │  │  │      samuelsong.mode1v3
+│  │  │  │  │      samuelsong.pbxuser
+│  │  │  │  │      
+│  │  │  │  └─Classes
+│  │  │  │          BibleAppDelegate.h
+│  │  │  │          BibleAppDelegate.m
+│  │  │  │          BibleView.h
+│  │  │  │          BibleView.m
+│  │  │  │          BibleViewController.h
+│  │  │  │          BibleViewController.m
+│  │  │  │          
+│  │  │  └─NBK
+│  │  │      │  NBK_Prefix.pch
+│  │  │      │  
+│  │  │      └─NBK.xcodeproj
+│  │  │              project.pbxproj
+│  │  │              samuelsong.mode1v3
+│  │  │              samuelsong.pbxuser
+│  │  │              
+│  │  ├─iPhone-example
+│  │  │  │  Browser-Info.plist
+│  │  │  │  BrowserViewController.xib
+│  │  │  │  Browser_Prefix.pch
+│  │  │  │  main.m
+│  │  │  │  MainWindow.xib
+│  │  │  │  
+│  │  │  ├─Browser.xcodeproj
+│  │  │  │      project.pbxproj
+│  │  │  │      samuelsong.mode1v3
+│  │  │  │      samuelsong.pbxuser
+│  │  │  │      
+│  │  │  └─Classes
+│  │  │          BrowserAppDelegate.h
+│  │  │          BrowserAppDelegate.m
+│  │  │          BrowserView.h
+│  │  │          BrowserView.m
+│  │  │          BrowserViewController.h
+│  │  │          BrowserViewController.m
+│  │  │          
+│  │  └─VS2003
+│  │      │  Browser.ncb
+│  │      │  Browser.sln
+│  │      │  Browser.vcproj
+│  │      │  main.cpp
+│  │      │  Test.ncb
+│  │      │  Test.sln
+│  │      │  Test.vcproj
+│  │      │  
+│  │      └─Debug
+│  │              attr.obj
+│  │              bd_list.obj
+│  │              browser.lib
+│  │              BuildLog.htm
+│  │              callback.obj
+│  │              char_ref.obj
+│  │              color.obj
+│  │              cssSelector.obj
+│  │              css_helper.obj
+│  │              css_prop.obj
+│  │              css_value.obj
+│  │              document.obj
+│  │              dump.obj
+│  │              editBox.obj
+│  │              event.obj
+│  │              gdi.obj
+│  │              history.obj
+│  │              imagePlayer.obj
+│  │              incParser.obj
+│  │              loader.obj
+│  │              main.obj
+│  │              memAlloc.obj
+│  │              miParser.obj
+│  │              nbk_connection.obj
+│  │              nbk_cookie_manager.obj
+│  │              nbk_ffpkg_parser.obj
+│  │              nbk_file_connection.obj
+│  │              nbk_fscache.obj
+│  │              nbk_gdi.obj
+│  │              nbk_http_connection.obj
+│  │              nbk_image_manager.obj
+│  │              nbk_interface.obj
+│  │              nbk_io_stream.obj
+│  │              nbk_kernel.obj
+│  │              nbk_sim_connection.obj
+│  │              nbk_stdc.obj
+│  │              nbk_timer.obj
+│  │              nbk_web_view.obj
+│  │              node.obj
+│  │              page.obj
+│  │              ptrArray.obj
+│  │              renderA.obj
+│  │              renderBlank.obj
+│  │              renderBlock.obj
+│  │              renderBr.obj
+│  │              renderHr.obj
+│  │              renderImage.obj
+│  │              renderInline.obj
+│  │              renderInput.obj
+│  │              renderNode.obj
+│  │              renderObject.obj
+│  │              renderSelect.obj
+│  │              renderTable.obj
+│  │              renderTd.obj
+│  │              renderText.obj
+│  │              renderTextarea.obj
+│  │              renderTr.obj
+│  │              slist.obj
+│  │              str.obj
+│  │              strBuf.obj
+│  │              strDict.obj
+│  │              strList.obj
+│  │              strPool.obj
+│  │              Test.exe
+│  │              Test.ilk
+│  │              Test.pdb
+│  │              textEditor.obj
+│  │              timer.obj
+│  │              tree.obj
+│  │              unicode.obj
+│  │              upCmd.obj
+│  │              url.obj
+│  │              vc70.idb
+│  │              vc70.pdb
+│  │              view.obj
+│  │              wbxmlDec.obj
+│  │              wbxml_base64.obj
+│  │              wbxml_buffers.obj
+│  │              wbxml_charset.obj
+│  │              wbxml_elt.obj
+│  │              wbxml_mem.obj
+│  │              wbxml_parser.obj
+│  │              wbxml_tables.obj
+│  │              xml_atts.obj
+│  │              xml_helper.obj
+│  │              xml_tags.obj
+│  │              xml_tokenizer.obj
+│  │              xpath.obj
+│  │              
+│  ├─res
+│  │      nbk_404.htm
+│  │      nbk_error.htm
+│  │      nbk_home.htm
+│  │      
+│  └─stdc
+│      │  count.pl
+│      │  
+│      ├─css
+│      │      color.c
+│      │      color.h
+│      │      color.in
+│      │      cssSelector.c
+│      │      cssSelector.h
+│      │      css_helper.c
+│      │      css_helper.h
+│      │      css_prop.c
+│      │      css_prop.h
+│      │      css_prop.in
+│      │      css_val.h
+│      │      css_value.c
+│      │      css_value.h
+│      │      css_value.in
+│      │      
+│      ├─dom
+│      │      attr.c
+│      │      attr.h
+│      │      char_ref.c
+│      │      char_ref.h
+│      │      char_ref.in
+│      │      document.c
+│      │      document.h
+│      │      event.c
+│      │      event.h
+│      │      history.c
+│      │      history.h
+│      │      incParser.c
+│      │      incParser.h
+│      │      miParser.c
+│      │      miParser.h
+│      │      node.c
+│      │      node.h
+│      │      page.c
+│      │      page.h
+│      │      token.h
+│      │      view.c
+│      │      view.h
+│      │      wbxmlDec.c
+│      │      wbxmlDec.h
+│      │      xml_atts.c
+│      │      xml_atts.h
+│      │      xml_atts.in
+│      │      xml_helper.c
+│      │      xml_helper.h
+│      │      xml_tags.c
+│      │      xml_tags.h
+│      │      xml_tags.in
+│      │      xml_tokenizer.c
+│      │      xml_tokenizer.h
+│      │      xpath.c
+│      │      xpath.h
+│      │      
+│      ├─editor
+│      │      editBox.c
+│      │      editBox.h
+│      │      textEditor.c
+│      │      textEditor.h
+│      │      
+│      ├─inc
+│      │      config.h
+│      │      nbk_callback.h
+│      │      nbk_cbDef.h
+│      │      nbk_ctlPainter.h
+│      │      nbk_gdi.h
+│      │      nbk_limit.h
+│      │      nbk_public.h
+│      │      nbk_settings.h
+│      │      nbk_timer.h
+│      │      
+│      ├─loader
+│      │      loader.c
+│      │      loader.h
+│      │      nbk_404.htm
+│      │      nbk_error.htm
+│      │      upCmd.c
+│      │      upCmd.h
+│      │      url.c
+│      │      url.h
+│      │      
+│      ├─render
+│      │      imagePlayer.c
+│      │      imagePlayer.h
+│      │      renderA.c
+│      │      renderA.h
+│      │      renderBlank.c
+│      │      renderBlank.h
+│      │      renderBlock.c
+│      │      renderBlock.h
+│      │      renderBr.c
+│      │      renderBr.h
+│      │      renderHr.c
+│      │      renderHr.h
+│      │      renderImage.c
+│      │      renderImage.h
+│      │      renderInline.c
+│      │      renderInline.h
+│      │      renderInput.c
+│      │      renderInput.h
+│      │      renderNode.c
+│      │      renderNode.h
+│      │      renderObject.c
+│      │      renderObject.h
+│      │      renderSelect.c
+│      │      renderSelect.h
+│      │      renderTable.c
+│      │      renderTable.h
+│      │      renderTd.c
+│      │      renderTd.h
+│      │      renderText.c
+│      │      renderText.h
+│      │      renderTextarea.c
+│      │      renderTextarea.h
+│      │      renderTr.c
+│      │      renderTr.h
+│      │      
+│      ├─tools
+│      │      callback.c
+│      │      dump.c
+│      │      dump.h
+│      │      gdi.c
+│      │      memAlloc.c
+│      │      memAlloc.h
+│      │      nbk_tool.py
+│      │      ptrArray.c
+│      │      ptrArray.h
+│      │      slist.c
+│      │      slist.h
+│      │      str.c
+│      │      str.h
+│      │      strBuf.c
+│      │      strBuf.h
+│      │      strDict.c
+│      │      strDict.h
+│      │      strList.c
+│      │      strList.h
+│      │      strPool.c
+│      │      strPool.h
+│      │      timer.c
+│      │      tree.c
+│      │      tree.h
+│      │      unicode.c
+│      │      unicode.h
+│      │      
+│      └─wbxml
+│              wbxml.h
+│              wbxml_base64.c
+│              wbxml_base64.h
+│              wbxml_buffers.c
+│              wbxml_buffers.h
+│              wbxml_charset.c
+│              wbxml_charset.h
+│              wbxml_config.h
+│              wbxml_conv.h
+│              wbxml_defines.h
+│              wbxml_elt.c
+│              wbxml_elt.h
+│              wbxml_errors.h
+│              wbxml_handlers.h
+│              wbxml_internals.h
+│              wbxml_mem.c
+│              wbxml_mem.h
+│              wbxml_parser.c
+│              wbxml_parser.h
+│              wbxml_tables.c
+│              wbxml_tables.h
+│              
+├─doc
+│      MGP_MTK.doc
+│      Phone_SDK.doc
+│      标准库.doc
+│      流程图.vsd
+│      
+├─platform
+│  ├─include
+│  │      cm_data_type.h
+│  │      cm_debug.h
+│  │      cm_facility.h
+│  │      cm_gdi.h
+│  │      cm_http.h
+│  │      cm_io.h
+│  │      cm_lib.h
+│  │      cm_md5.h
+│  │      cm_new.h
+│  │      cm_platform_config.h
+│  │      cm_socket.h
+│  │      cm_string.h
+│  │      cm_thread.h
+│  │      cm_time.h
+│  │      cm_zip_stream.h
+│  │      
+│  ├─iPhone
+│  │  │  bible_ios_platform.h
+│  │  │  cm_debug.c
+│  │  │  cm_facility.m
+│  │  │  cm_gdi.m
+│  │  │  cm_http.c
+│  │  │  cm_io.c
+│  │  │  cm_lib.c
+│  │  │  cm_md5.m
+│  │  │  cm_platform_config.c
+│  │  │  cm_string.c
+│  │  │  cm_time.m
+│  │  │  cm_zip_stream.c
+│  │  │  
+│  │  └─project
+│  │      │  platform_Prefix.pch
+│  │      │  
+│  │      └─platform.xcodeproj
+│  │              project.pbxproj
+│  │              samuelsong.mode1v3
+│  │              samuelsong.pbxuser
+│  │              
+│  ├─test
+│  │      cm_gdi_test.c
+│  │      cm_image_test.c
+│  │      cm_io_test.c
+│  │      cm_zip_test.c
+│  │      main.cpp
+│  │      
+│  └─win32
+│      │  cm_debug.c
+│      │  cm_facility.c
+│      │  cm_gdi.c
+│      │  cm_http.c
+│      │  cm_io.c
+│      │  cm_lib.c
+│      │  cm_md5.c
+│      │  cm_platform_config.c
+│      │  cm_socket.c
+│      │  cm_string.c
+│      │  cm_thread.c
+│      │  cm_time.c
+│      │  cm_zip_stream.c
+│      │  
+│      └─project
+│          │  platform.sln
+│          │  platform.vcproj
+│          │  
+│          └─Debug
+│                  BuildLog.htm
+│                  cm_debug.obj
+│                  cm_facility.obj
+│                  cm_gdi.obj
+│                  cm_gdi_test.obj
+│                  cm_http.obj
+│                  cm_io.obj
+│                  cm_io_test.obj
+│                  cm_lib.obj
+│                  cm_md5.obj
+│                  cm_platform_config.obj
+│                  cm_socket.obj
+│                  cm_string.obj
+│                  cm_thread.obj
+│                  cm_time.obj
+│                  cm_zip_stream.obj
+│                  platform.lib
+│                  vc70.idb
+│                  vc70.pdb
+│                  
+└─utility
+    ├─include
+    │      cm_base64.h
+    │      cm_mem_check.h
+    │      cm_utility.h
+    │      
+    ├─project
+    │  ├─iPhone
+    │  │  │  utility_Prefix.pch
+    │  │  │  
+    │  │  └─utility.xcodeproj
+    │  │          project.pbxproj
+    │  │          samuelsong.mode1v3
+    │  │          samuelsong.pbxuser
+    │  │          
+    │  └─vs2003
+    │      │  main.cpp
+    │      │  ReadMe.txt
+    │      │  Test.ncb
+    │      │  Test.sln
+    │      │  Test.vcproj
+    │      │  utility.ncb
+    │      │  utility.sln
+    │      │  utility.vcproj
+    │      │  
+    │      └─Debug
+    │              1.txt
+    │              BuildLog.htm
+    │              cm_base64.obj
+    │              cm_mem_check.obj
+    │              cm_utility.obj
+    │              Test.exe
+    │              utility.lib
+    │              vc70.idb
+    │              vc70.pdb
+    │              
+    └─source
+            cm_base64.cpp
+            cm_mem_check.cpp
+            cm_test.cpp
+            cm_utility.c
+            

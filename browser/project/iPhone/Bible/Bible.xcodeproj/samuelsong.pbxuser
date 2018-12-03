@@ -1,0 +1,369 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Bible */ = {
+		activeExec = 0;
+		executables = (
+			47708D4414C690F600D555DA /* Bible */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BibleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 371}}";
+			sepNavSelRange = "{133, 0}";
+			sepNavVisRange = "{0, 261}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BibleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1372}}";
+			sepNavSelRange = "{956, 0}";
+			sepNavVisRange = "{1160, 844}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 47708D4414C690F600D555DA /* Bible */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Bible */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Bible */,
+		);
+		breakpoints = (
+			47708E3914C6983800D555DA /* BibleViewController.m:55 */,
+			47708E6C14C6986200D555DA /* BibleViewController.m:49 */,
+		);
+		codeSenseManager = 47708D5114C690FC00D555DA /* Code sense */;
+		executables = (
+			47708D4414C690F600D555DA /* Bible */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					537,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349693208;
+			PBXWorkspaceStateSaveDate = 349693208;
+		};
+		perUserProjectItems = {
+			4763C39314D7951B002A2AE3 /* PBXTextBookmark */ = 4763C39314D7951B002A2AE3 /* PBXTextBookmark */;
+			4763C39414D7951B002A2AE3 /* PBXTextBookmark */ = 4763C39414D7951B002A2AE3 /* PBXTextBookmark */;
+			47708E3D14C6984C00D555DA /* PBXTextBookmark */ = 47708E3D14C6984C00D555DA /* PBXTextBookmark */;
+			47708E3E14C6984C00D555DA /* PBXTextBookmark */ = 47708E3E14C6984C00D555DA /* PBXTextBookmark */;
+			47708E4214C6984C00D555DA /* PBXTextBookmark */ = 47708E4214C6984C00D555DA /* PBXTextBookmark */;
+			47708E4314C6984C00D555DA /* PBXTextBookmark */ = 47708E4314C6984C00D555DA /* PBXTextBookmark */;
+			47708E4714C6984C00D555DA /* PBXTextBookmark */ = 47708E4714C6984C00D555DA /* PBXTextBookmark */;
+			47708E4814C6984C00D555DA /* PBXTextBookmark */ = 47708E4814C6984C00D555DA /* PBXTextBookmark */;
+			47708E4C14C6984C00D555DA /* PBXTextBookmark */ = 47708E4C14C6984C00D555DA /* PBXTextBookmark */;
+			47708E8814C69A6A00D555DA /* PBXTextBookmark */ = 47708E8814C69A6A00D555DA /* PBXTextBookmark */;
+			47708E8914C69A6A00D555DA /* PBXTextBookmark */ = 47708E8914C69A6A00D555DA /* PBXTextBookmark */;
+			47708EB914C69C7400D555DA /* PBXTextBookmark */ = 47708EB914C69C7400D555DA /* PBXTextBookmark */;
+			47708EBD14C69C7400D555DA /* PBXTextBookmark */ = 47708EBD14C69C7400D555DA /* PBXTextBookmark */;
+			4797B06314D8004F00782F10 /* PBXTextBookmark */ = 4797B06314D8004F00782F10 /* PBXTextBookmark */;
+			4797B06614D8004F00782F10 /* PBXTextBookmark */ = 4797B06614D8004F00782F10 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 47708D5014C690FC00D555DA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Bible_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 394}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	4763C39314D7951B002A2AE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708D6114C691A700D555DA /* BibleView.m */;
+		name = "BibleView.m: 7";
+		rLen = 0;
+		rLoc = 122;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	4763C39414D7951B002A2AE3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		name = "BibleViewController.m: 49";
+		rLen = 0;
+		rLoc = 956;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 1160;
+	};
+	47708D4414C690F600D555DA /* Bible */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Bible;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	47708D5014C690FC00D555DA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	47708D5114C690FC00D555DA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	47708D6014C691A700D555DA /* BibleView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 558}}";
+			sepNavSelRange = "{339, 0}";
+			sepNavVisRange = "{0, 345}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	47708D6114C691A700D555DA /* BibleView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 1134}}";
+			sepNavSelRange = "{505, 0}";
+			sepNavVisRange = "{257, 955}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	47708E3914C6983800D555DA /* BibleViewController.m:55 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		functionName = "-toolBarProcess:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 55;
+		location = Bible;
+		modificationTime = 348559709.314473;
+		state = 1;
+	};
+	47708E3D14C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Bible_Prefix.pch */;
+		name = "Bible_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	47708E3E14C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708D6014C691A700D555DA /* BibleView.h */;
+		name = "BibleView.h: 10";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	47708E4214C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708D6014C691A700D555DA /* BibleView.h */;
+		name = "BibleView.h: 10";
+		rLen = 0;
+		rLoc = 148;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	47708E4314C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708D6114C691A700D555DA /* BibleView.m */;
+		name = "BibleView.m: 5";
+		rLen = 0;
+		rLoc = 54;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	47708E4714C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BibleViewController.h */;
+		name = "BibleViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 0;
+	};
+	47708E4814C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		name = "BibleViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 647;
+		vrLoc = 0;
+	};
+	47708E4C14C6984C00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Bible_Prefix.pch */;
+		name = "Bible_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	47708E6C14C6986200D555DA /* BibleViewController.m:49 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		functionName = "-toolBarProcess:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 49;
+		location = Bible;
+		modificationTime = 348559704.098462;
+		state = 1;
+	};
+	47708E8814C69A6A00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BibleViewController.h */;
+		name = "BibleViewController.h: 8";
+		rLen = 0;
+		rLoc = 133;
+		rType = 0;
+		vrLen = 261;
+		vrLoc = 0;
+	};
+	47708E8914C69A6A00D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		name = "BibleViewController.m: 52";
+		rLen = 0;
+		rLoc = 1010;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 619;
+	};
+	47708EB914C69C7400D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708EBA14C69C7400D555DA /* nbk_core.h */;
+		name = "nbk_core.h: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	47708EBA14C69C7400D555DA /* nbk_core.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = nbk_core.h;
+		path = /Users/samuelsong/samuel/mind/source/browser/project/iPhone/Bible/../../../nbk/nbk_core.h;
+		sourceTree = "<absolute>";
+	};
+	47708EBD14C69C7400D555DA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708EBE14C69C7400D555DA /* nbk_core.h */;
+		name = "nbk_core.h: 10";
+		rLen = 0;
+		rLoc = 179;
+		rType = 0;
+		vrLen = 608;
+		vrLoc = 0;
+	};
+	47708EBE14C69C7400D555DA /* nbk_core.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = nbk_core.h;
+		path = /Users/samuelsong/samuel/mind/source/browser/project/iPhone/Bible/../../../nbk/nbk_core.h;
+		sourceTree = "<absolute>";
+	};
+	4797B06314D8004F00782F10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 47708D6114C691A700D555DA /* BibleView.m */;
+		name = "BibleView.m: 26";
+		rLen = 0;
+		rLoc = 505;
+		rType = 0;
+		vrLen = 955;
+		vrLoc = 257;
+	};
+	4797B06614D8004F00782F10 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BibleViewController.m */;
+		name = "BibleViewController.m: 49";
+		rLen = 0;
+		rLoc = 956;
+		rType = 0;
+		vrLen = 844;
+		vrLoc = 1160;
+	};
+}

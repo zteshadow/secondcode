@@ -1,0 +1,181 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DevAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 322}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 437}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DevAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 405}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Dev */ = {
+		activeExec = 0;
+		executables = (
+			4769B8F714DA8BB200845A16 /* Dev */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DevViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 268}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 214}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DevViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 952}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 301}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4769B8F714DA8BB200845A16 /* Dev */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Dev */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Dev */,
+		);
+		codeSenseManager = 4769B90414DA8BD000845A16 /* Code sense */;
+		executables = (
+			4769B8F714DA8BB200845A16 /* Dev */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 349871765;
+			PBXWorkspaceStateSaveDate = 349871765;
+		};
+		perUserProjectItems = {
+			477029DA14DA9FB400899C6A /* PBXTextBookmark */ = 477029DA14DA9FB400899C6A /* PBXTextBookmark */;
+			477029DB14DA9FB400899C6A /* PBXTextBookmark */ = 477029DB14DA9FB400899C6A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4769B90314DA8BD000845A16 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4769B8F714DA8BB200845A16 /* Dev */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Dev;
+		sourceDirectories = (
+		);
+	};
+	4769B90314DA8BD000845A16 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	4769B90414DA8BD000845A16 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4769B90614DA8D7700845A16 /* CMWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{119, 0}";
+			sepNavVisRange = "{0, 188}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	4769B90714DA8D7700845A16 /* CMWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 476}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 387}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	4769B90914DA8E5D00845A16 /* CMUIWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{184, 0}";
+			sepNavVisRange = "{0, 193}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	4769B90A14DA8E5D00845A16 /* CMUIWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{121, 0}";
+			sepNavVisRange = "{0, 183}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	4769B90C14DA8F8E00845A16 /* CMBDWebView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 193}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	4769B90D14DA8F8E00845A16 /* CMBDWebView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 392}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 183}";
+		};
+	};
+	477029DA14DA9FB400899C6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: cannot find interface declaration for 'CMWebView', superclass of 'CMUIWebView'";
+		fRef = 4769B90914DA8E5D00845A16 /* CMUIWebView.h */;
+		rLen = 1;
+		rLoc = 11;
+		rType = 1;
+	};
+	477029DB14DA9FB400899C6A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4769B90914DA8E5D00845A16 /* CMUIWebView.h */;
+		name = "CMUIWebView.h: 6";
+		rLen = 0;
+		rLoc = 107;
+		rType = 0;
+		vrLen = 188;
+		vrLoc = 0;
+	};
+}

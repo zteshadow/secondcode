@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>XMPPMessageArchiving</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>XMPPMessageArchiving</key>
+		<dict>
+			<key>XMPPMessageArchiving_Contact_CoreDataObject</key>
+			<data>
+			s1khxk2GZ6k5xG5BsEBT6SsrKDbbLZYhs3CFpEQ3gZ8=
+			</data>
+			<key>XMPPMessageArchiving_Message_CoreDataObject</key>
+			<data>
+			Va108GAr2FYKMkaIyPjQ468bo/+t9RKj3kD0VwN6zyM=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

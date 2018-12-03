@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>enableCropOptions</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Crop Options</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Photo Tagging</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>enableCoeffTagging</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Photo Coefficient Tagging</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>If you need any asistance, please contact iOS Photos Team oncall: 	oncall+snap_ios@xmail.facebook.com</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>enableVideoCapture</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Video Capture</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>enableFaceDotComDetector</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>FB Face Detector</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>enableMultiPhotoPostsForPages</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Page&apos;s Multiphoto Post</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<false/>
+			<key>Key</key>
+			<string>enableIPadUFIForMultiPhotoFeed</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Enable iPad UFI for photo</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<true/>
+			<key>Key</key>
+			<string>enableSecondaryKeyActionOnPhoto</string>
+			<key>UserPreferenceStore</key>
+			<string>StoreSessionPreferences</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>Title</key>
+			<string>Long Press Animation</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>wildeRoot</string>
+</dict>
+</plist>

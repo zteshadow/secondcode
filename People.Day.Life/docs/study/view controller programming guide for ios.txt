@@ -1,0 +1,8 @@
+
+1. About View Controllers
+View controller是app的数据和视觉界面之间的重要的连接。当一个iOS app显示用户界面的时候，显示的内容一般都是由一个或者几个 view controller协同管理的。
+
+iOS内置了很多的view controller来支持一般的用户接口，比如导航(navigation), 标签栏(tab bar)。我们在开发app的时候通常会自定义view controller来展示用户界面。
+
+2. At a Glance
+view controller在经典的mvc模型中是controller部分，但实际上他的工作还不止这些。系统内置的

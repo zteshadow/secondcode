@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Path2</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Path2</key>
+		<dict>
+			<key>APIApplication</key>
+			<data>
+			qV767c3xOQApZnNdCtwALOiJ10QXV4ROuv0Dn1ZXeEc=
+			</data>
+			<key>Activity</key>
+			<data>
+			dSdippF+Xe732/TB1A7RceEFK3cbwjkPmjXwYlGy2N8=
+			</data>
+			<key>Comment</key>
+			<data>
+			Kvp8sBo9NI468GxFjdAM5iy1iN03PQ+V+NJU5cDs/5k=
+			</data>
+			<key>CommentDraft</key>
+			<data>
+			VH/AKKYQMfZz5xobVSK3k7CVKwDBnbQOTXixY5BLmbU=
+			</data>
+			<key>Feed</key>
+			<data>
+			/GAtS9g0kL96hQP4RBvpswtLter9xIUq/dQT/sIZa18=
+			</data>
+			<key>Location</key>
+			<data>
+			hXsFiUH5pxtpYN04F/Qw2+kC1L3aWMaMsPPuZ7CFPEE=
+			</data>
+			<key>Music</key>
+			<data>
+			Y5IWCu8xH51evsjSoNMzp208x2ydkPsoBnjFaO2Y2zk=
+			</data>
+			<key>Person</key>
+			<data>
+			00ulPxc/X/QD+yQLudPM2RlSJsRi9vGhDP2NTAST+WE=
+			</data>
+			<key>PersonTag</key>
+			<data>
+			WuY7MBpyYp38vLD8rxZsFNjegevROZBWHzHjUESIWyQ=
+			</data>
+			<key>Place</key>
+			<data>
+			8IxFM0cXnocj+jyPyY0DWsAbEyVK3+EqyzaC3CzTSJQ=
+			</data>
+			<key>Post</key>
+			<data>
+			OhsfRwdbZZBjU9gKTYW8Q5iPRkTd0+5/ICAJQ3EZWgY=
+			</data>
+			<key>Recommendation</key>
+			<data>
+			0T0SpC4Kh7limbLDVqvrUa3Gdg7yDnNiXEWGinvnljE=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>

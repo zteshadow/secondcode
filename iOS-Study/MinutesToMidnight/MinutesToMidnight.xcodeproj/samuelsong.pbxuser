@@ -1,0 +1,258 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MinutesToMidnightAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 420}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{151, 408}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MinutesToMidnightAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 630}}";
+			sepNavSelRange = "{286, 0}";
+			sepNavVisRange = "{0, 910}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MinutesToMidnight */ = {
+		activeExec = 0;
+		executables = (
+			477E24B314EA577100A76DF8 /* MinutesToMidnight */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 280}}";
+			sepNavSelRange = "{124, 0}";
+			sepNavVisRange = "{0, 370}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1526}}";
+			sepNavSelRange = "{279, 0}";
+			sepNavVisRange = "{157, 447}";
+			sepNavWindowFrame = "{{15, 70}, {974, 671}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 477E24B314EA577100A76DF8 /* MinutesToMidnight */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MinutesToMidnight */;
+		codeSenseManager = 477E24C014EA577A00A76DF8 /* Code sense */;
+		executables = (
+			477E24B314EA577100A76DF8 /* MinutesToMidnight */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 350902129;
+			PBXWorkspaceStateSaveDate = 350902129;
+		};
+		perUserProjectItems = {
+			477E24EC14EA66C000A76DF8 /* PBXTextBookmark */ = 477E24EC14EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24ED14EA66C000A76DF8 /* PBXTextBookmark */ = 477E24ED14EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24EE14EA66C000A76DF8 /* PBXTextBookmark */ = 477E24EE14EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24EF14EA66C000A76DF8 /* PBXTextBookmark */ = 477E24EF14EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F014EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F014EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F114EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F114EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F214EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F214EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F314EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F314EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F414EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F414EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F514EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F514EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F614EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F614EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F714EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F714EA66C000A76DF8 /* PBXTextBookmark */;
+			477E24F814EA66C000A76DF8 /* PBXTextBookmark */ = 477E24F814EA66C000A76DF8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 477E24BF14EA577A00A76DF8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	477E24B314EA577100A76DF8 /* MinutesToMidnight */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MinutesToMidnight;
+		sourceDirectories = (
+		);
+	};
+	477E24BF14EA577A00A76DF8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	477E24C014EA577A00A76DF8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	477E24EC14EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MinutesToMidnightAppDelegate.m */;
+		name = "MinutesToMidnightAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	477E24ED14EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MinutesToMidnightAppDelegate.h */;
+		name = "MinutesToMidnightAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 151;
+	};
+	477E24EE14EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */;
+		name = "MinutesToMidnightViewController.h: 6";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	477E24EF14EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 13";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 157;
+	};
+	477E24F014EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MinutesToMidnightAppDelegate.h */;
+		name = "MinutesToMidnightAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	477E24F114EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */;
+		name = "MinutesToMidnightViewController.h: 16";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 349;
+		vrLoc = 0;
+	};
+	477E24F214EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 13";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 382;
+		vrLoc = 0;
+	};
+	477E24F314EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */;
+		name = "MinutesToMidnightViewController.h: 17";
+		rLen = 0;
+		rLoc = 363;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	477E24F414EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 13";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 157;
+	};
+	477E24F514EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MinutesToMidnightAppDelegate.m */;
+		name = "MinutesToMidnightAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 476;
+		vrLoc = 0;
+	};
+	477E24F614EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MinutesToMidnightAppDelegate.h */;
+		name = "MinutesToMidnightAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 408;
+		vrLoc = 151;
+	};
+	477E24F714EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MinutesToMidnightViewController.h */;
+		name = "MinutesToMidnightViewController.h: 6";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 370;
+		vrLoc = 0;
+	};
+	477E24F814EA66C000A76DF8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MinutesToMidnightViewController.m */;
+		name = "MinutesToMidnightViewController.m: 13";
+		rLen = 0;
+		rLoc = 279;
+		rType = 0;
+		vrLen = 447;
+		vrLoc = 157;
+	};
+}
